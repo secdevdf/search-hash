@@ -1,1 +1,2 @@
+#/bin/sh
 cat hash_types | grep $1
